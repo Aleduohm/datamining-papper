@@ -49,14 +49,14 @@ example：给定一个大小为2的co-location模式*p<sub>2</sub>*={{AB},{AC},{
   <img src="./img/2009_An%20order-clique-based%20approach%20for%20mining%20maximal%20co-locations/image-20231207135437404.png" alt="image-20231207135437404" style="zoom: 80%;" />
 </div>
 
-#### 2.5表实例树
+#### 2.6表实例树
 
 以Ins作为根节点，每个分支代表了候选模式c的一个表实例的树叫做c的表实例树
 
 基于上图计算的到的候选极大co-location模式{A,B,C}的Ins树如下图所示
-
+<div align=center>
 ![image-20231207140036902](./img/2009_An%20order-clique-based%20approach%20for%20mining%20maximal%20co-locations/image-20231207140036902.png)
-
+</div>
 生成过程可参考如下：
 
 <div align=center>
