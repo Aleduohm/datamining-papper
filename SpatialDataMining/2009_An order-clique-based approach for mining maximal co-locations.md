@@ -38,7 +38,7 @@ example：给定一个大小为2的co-location模式*p<sub>2</sub>*={{AB},{AC},{
 例如：δ<sub>A</sub>={{A.1,B.1C.1},{A.2,B.4,C.2},{A.3,B.3,C.1,C.3,D.1},{A.4,B.3}}
 
 <div align=center>
-  <img src="./img/2009_An%20order-clique-based%20approach%20for%20mining%20maximal%20co-locations/image-20231207134305996.png" alt="image-20231207134305996" style="zoom:67%;" width=400/>
+  <img src="./img/2009_An%20order-clique-based%20approach%20for%20mining%20maximal%20co-locations/image-20231207134305996.png" alt="image-20231207134305996" style="zoom:67%;" width=300/>
 </div>
 
 #### 2.5邻近关系树
