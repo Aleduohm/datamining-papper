@@ -60,5 +60,5 @@ example：给定一个大小为2的co-location模式*p<sub>2</sub>*={{AB},{AC},{
 生成过程可参考如下：
 
 <div align=center>
-  <img src="./img/2009_An%20order-clique-based%20approach%20for%20mining%20maximal%20co-locations/image-20231207145421856.png" alt="image-20231207145421856" width=600 />
+  <img src="./img/2009_An%20order-clique-based%20approach%20for%20mining%20maximal%20co-locations/image-20231207145421856.png" alt="image-20231207145421856" width=400 />
 </div>
