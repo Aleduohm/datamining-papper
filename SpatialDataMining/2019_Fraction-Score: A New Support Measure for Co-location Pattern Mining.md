@@ -9,7 +9,9 @@
 
 如在下图中，模式{A,B}的参与度为0.5，但实际上特征A与特征B的关联性并不强。
 
-<img src="./img/2006_A%20Join-less%20Approach%20for%20Co-location%20Pattern%20Mining/image-20231105105921382.png" alt="image-20231105105921382" style="zoom: 50%;" />
+<div align=center>
+   <img src="./img/2006_A%20Join-less%20Approach%20for%20Co-location%20Pattern%20Mining/image-20231105105921382.png" alt="image-20231105105921382" style="zoom: 50%;" width=400 />
+</div>
 
 ### Fraction-Score
 
