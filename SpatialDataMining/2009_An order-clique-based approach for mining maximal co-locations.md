@@ -30,7 +30,7 @@ example：给定一个大小为2的co-location模式*p<sub>2</sub>*={{AB},{AC},{
 
 #### 2.3size-2 colocation header relationship tree (P2-tree)
 <div align=center>
-  <img src="./img/2009_An%20order-clique-based%20approach%20for%20mining%20maximal%20co-locations/image-20231207095554314.png" alt="image-20231207095554314" style="zoom:80%;" />
+  <img src="./img/2009_An%20order-clique-based%20approach%20for%20mining%20maximal%20co-locations/image-20231207095554314.png" alt="image-20231207095554314" style="zoom:80%;" width=400/>
 </div>
 
 #### 2.4特征x的排序邻近关系集合
