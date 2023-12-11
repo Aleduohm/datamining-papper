@@ -29,20 +29,25 @@ $$
 example：给定一个大小为2的co-location模式*p<sub>2</sub>*={{AB},{AC},{AD},{BC},{BD},{BF},{CD},{CE},{DE}}，它的size-2 co-location header relationship set为*δ*={*δ<sub>A</sub>*:{ABCD},*δ<sub>B</sub>*:{BCDF},*δ<sub>C</sub>*:{CDE},*δ<sub>D</sub>:{DE}}
 
 #### 2.3size-2 colocation header relationship tree (P2-tree)
-
-<img src="./img/2009_An%20order-clique-based%20approach%20for%20mining%20maximal%20co-locations/image-20231207095554314.png" alt="image-20231207095554314" style="zoom:80%;" />
+<div align=center>
+  <img src="./img/2009_An%20order-clique-based%20approach%20for%20mining%20maximal%20co-locations/image-20231207095554314.png" alt="image-20231207095554314" style="zoom:80%;" />
+</div>
 
 #### 2.4特征x的排序邻近关系集合
 
 例如：δ<sub>A</sub>={{A.1,B.1C.1},{A.2,B.4,C.2},{A.3,B.3,C.1,C.3,D.1},{A.4,B.3}}
 
-<img src="./img/2009_An%20order-clique-based%20approach%20for%20mining%20maximal%20co-locations/image-20231207134305996.png" alt="image-20231207134305996" style="zoom:67%;" />
+<div align=center>
+  <img src="./img/2009_An%20order-clique-based%20approach%20for%20mining%20maximal%20co-locations/image-20231207134305996.png" alt="image-20231207134305996" style="zoom:67%;" />
+</div>
 
 #### 2.5邻近关系树
 
 以上图为例，上图的邻近关系树如下：
 
-<img src="./img/2009_An%20order-clique-based%20approach%20for%20mining%20maximal%20co-locations/image-20231207135437404.png" alt="image-20231207135437404" style="zoom: 80%;" />
+<div align=center>
+  <img src="./img/2009_An%20order-clique-based%20approach%20for%20mining%20maximal%20co-locations/image-20231207135437404.png" alt="image-20231207135437404" style="zoom: 80%;" />
+</div>
 
 #### 2.5表实例树
 
@@ -54,4 +59,6 @@ example：给定一个大小为2的co-location模式*p<sub>2</sub>*={{AB},{AC},{
 
 生成过程可参考如下：
 
-<img src="./img/2009_An%20order-clique-based%20approach%20for%20mining%20maximal%20co-locations/image-20231207145421856.png" alt="image-20231207145421856" style="zoom:67%;" />
+<div align=center>
+  <img src="./img/2009_An%20order-clique-based%20approach%20for%20mining%20maximal%20co-locations/image-20231207145421856.png" alt="image-20231207145421856" style="zoom:67%;" />
+</div>
