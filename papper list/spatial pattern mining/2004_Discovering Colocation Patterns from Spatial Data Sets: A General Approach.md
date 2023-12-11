@@ -16,10 +16,10 @@
    模式c的所有行实例的集合称为表实例。
 6. 参与率与参与度
    <div align=center>
-      <img src="https://github.com/Aleduohm/datamining-papper/assets/84367663/a0922c3c-051a-4a16-a379-cca56363219a" width="400">
+      <img src="https://github.com/Aleduohm/datamining-papper/assets/84367663/a0922c3c-051a-4a16-a379-cca56363219a" width="300">
    </div>
    <div align=center>
-      <img src="https://github.com/Aleduohm/datamining-papper/assets/84367663/c4383c17-c4ae-4bc7-a401-0e2ec262da73" width="400" />
+      <img src="https://github.com/Aleduohm/datamining-papper/assets/84367663/c4383c17-c4ae-4bc7-a401-0e2ec262da73" width="500" />
    </div>
 ### 基于全连接的co-location挖掘算法
 1. 生成候选模式
