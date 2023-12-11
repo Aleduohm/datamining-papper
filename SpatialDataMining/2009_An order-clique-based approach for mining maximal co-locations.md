@@ -24,6 +24,7 @@ f_i∈F\quad and\quad f_i∉c
 $$
 如果*c∪f<sub>i</sub>*是不频繁的，则称*c*为最大有序co-location
 
+
 #### 2.2size-2 co-location header relationship set
 
 example：给定一个大小为2的co-location模式*p<sub>2</sub>*={{AB},{AC},{AD},{BC},{BD},{BF},{CD},{CE},{DE}}，它的size-2 co-location header relationship set为*δ*={*δ<sub>A</sub>*:{ABCD},*δ<sub>B</sub>*:{BCDF},*δ<sub>C</sub>*:{CDE},*δ<sub>D</sub>:{DE}}
