@@ -62,5 +62,6 @@ partial-join方法适合处理大部分空间邻近关系都在团分区内，�
 3. 生成co-location模式的内部实例与外部实例
 4. 继续生成下一级的内部实例与外部实例，在生成外部实例之前，使用k-1阶内部实例与k-1阶外部实例的基实例，对co-location进行一次粗糙剪枝（我的理解是level2的最后一步）
 
+<div align=center>
 <img src="./img/2006_A%20Join-less%20Approach%20for%20Co-location%20Pattern%20Mining/image-20231102192536238.png" alt="image-20231102192536238" style="zoom:80%;" />
-
+</div>
