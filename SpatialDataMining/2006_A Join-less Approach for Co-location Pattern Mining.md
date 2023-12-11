@@ -13,11 +13,15 @@
 
 星型邻域关系的定义如下图所示，图中显示了对象A.1,A.3,B.4星型邻域关系的邻域，虚线圆的半径为自定义的邻域距离。
 
+<div align=center>
 <img src="./img/2006_A%20Join-less%20Approach%20for%20Co-location%20Pattern%20Mining/image-20231101214008886.png" alt="image-20231101214008886" style="zoom: 80%;" />
+</div>
 
 星型邻域可以分为重叠星型邻域划分和不重叠星型邻域划分（计算效率会更高），不重叠星型邻域如下图所示：
 
+<div align=center>
 <img src="./img/2006_A%20Join-less%20Approach%20for%20Co-location%20Pattern%20Mining/image-20231101224014134.png" alt="image-20231101224014134" style="zoom: 80%;" />
+</div>
 
 为提高挖掘效率，论文中使用了三步过滤机制找到所有频繁的co-location模式：属性级过滤、粗糙过滤和精细过滤。
 
@@ -34,17 +38,22 @@
 5. 过滤co-location实例，检查模式的实例是否为一个团
 6. 选择频繁的co-location模式
 
+<div align=center>
 <img src="./img/2006_A%20Join-less%20Approach%20for%20Co-location%20Pattern%20Mining/image-20231102154919947.png" alt="image-20231102154919947" style="zoom:80%;" />
-
+</div>
 ### 团邻域划分（部分连接的co-location挖掘算法）
 
 partial-join方法适合处理大部分空间邻近关系都在团分区内，而很少的空间邻近关系在各分区之间的数据集。给定一个空间数据集和一个邻近关系，首先需要生成不相交的团的集合。为了实现这一步，使用大小为d/√2*d/√2的矩形网格进行划分，其中d是邻近距离（在图中为圆的半径）。在一个网格中的对象就是一个团近邻。团邻域关系的定义如下图所示
 
+<div align=center>
 <img src="./img/2006_A%20Join-less%20Approach%20for%20Co-location%20Pattern%20Mining/image-20231101224203767.png" alt="image-20231101224203767" style="zoom: 80%;" />
+</div>
 
 不重叠的团邻域如下图所示
 
+<div align=center>
 <img src="./img/2006_A%20Join-less%20Approach%20for%20Co-location%20Pattern%20Mining/image-20231101224237886.png" alt="image-20231101224237886" style="zoom:80%;" />
+</div>
 
 部分连接算法的基本步骤如图所示，包含以下步骤
 
